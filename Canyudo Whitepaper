@@ -1,0 +1,374 @@
+Abstract
+Canyu.do is a free to use organisational tool allowing an app user to advertise jobs, tasks, events, or items for sale to a network of other app users, with the option to make or take payment in cryptocurrency. At product launch it will be primarily aimed at the private sale (classifieds), temporary recruitment, and global remittance markets, combining advertising for short term contract job opportunities with a low cost secure peer to peer value transfer system. Users can create and broadcast posts quickly and easily, adding media, data files, and location tags that sync with satellite navigation, then utilise a smart contract to either formally document the process and/or make payment where applicable. A fee is charged where a smart contract is executed, a third of which is pledged to charitable enterprise. Under this model, use of the distributed ledger system will fund a pool of money to be dispersed by registered charities, which we then track as part of a digital pay-it-forward model.
+
+Project Genesis
+Some time ago we decided that we wanted to help with two specific problems; the first is a common issue migrant workers have in evidencing the work contracts that validate their visas in emerging economies. They often have no formal documentation to show authorities that they have a right to be in the country, and many are deported despite having tacit agreements in place with their employers. The impact in terms of the costs they incur traveling and the subsequent loss of income can be devastating for themselves and their families. The second issue is to do with the difficulty that our community based volunteer networks (local heroes) have in organising and promoting their charitable endeavours. For all but the biggest registered charities who have marketing teams and funding in place, many local good causes operate on a shoestring budget and their marketing activities tend to reflect that. Often this translates to posters on a wall or email communication to a mailing list, and we thought we could help to put them on a more equal footing in terms of the quality and effectiveness of their promotion. In trying to resolve both issues we started to design an app that would allow anyone to create tasks/events easily, spread the word to their target audience instantly and at no cost, and offer the user an option to generate digital proof documenting what activity had taken place, who was involved, and/or if an agreement between two or more parties had been made. We added location based features so that users could search for events within a set geographical radius (say an hour’s drive) and get directions too. For charitable events specifically the software works extremely well in that all are given equal billing on the app, meaning the smaller charitable organisations now have a chance to compete with those that can afford to spend money on advertising. The location features bring the greatest benefit however, since any app user can now view a complete list of events posted in their local area via the search function rather than having to seek them out individually, and thus attendance of the smaller events no longer relies on people reading an email or coming across an advert by chance. Once we had a working prototype we realised that these same features would be attractive to businesses looking for short term staffing solutions, with service industries in particular benefiting from a way to notify their staff network instantly when shifts were available at short notice, or open up the job opportunity to the public where no existing staff member was available. For the general public there are benefits also, as they now have the ability to contact businesses without having to call each firm individually; for example a user can now create a task/job and instantly notify every app registered electrician or plumber (tradesman) within 100 miles. We had looked at blockchain technology as a solution to that first problem since it provides a cheap but formal way to document an agreement between two parties, but the final decision to integrate came when we realised that fees we could charge for making use of a smart contract execution system would be a way to generate an additional income stream for the charities we initially sought to assist. The result is an app that we feel has real ubiquity in terms of its practical application, can be used effectively by all sectors of society, and at that same time helps to fund social causes. In terms of its core functionality the app has already been built and is in beta testing phase. Over the next year we will be refreshing the design, integrating blockchain technology, and incorporating a secure login process similar to internet banking in order to protect users who transact using the app. We aim to launch in the latter part of 2019.
+
+Key Features and Services of the App
+The canyu.do app aims to provide 4 key services, with part of the revenue generated from those activities helping to fund a pool of money that will be allocated to and dispersed by registered charities. The app is free to use for business or personal purposes, with fees being charged only where the user executes a smart contract (creates a permanent record on the blockchain distributed ledger). For clarity, we refer to new items created on our app as ‘tasks’ but the reader should note that this can include jobs being advertised, events being promoted, items being sold, data being transmitted, or a payment being sent. Task creators can add text, images and video to describe the activity they wish to promote or have performed for them; data files if they wish to send documents to another user; location tags to define where they are or where the activity is to take place (and in both cases to provide the task assignee with directions); and can attach payment in cryptocurrency. Once a task has been created it can be assigned to a specific app user; or a group of app users based on skill set; or a pre-defined group of app users (e.g. a staff network, or mailing list); or to random app users within a user defined geographical radius; or simply broadcast to the network (no specific task assignee) with their task accessed by other app users via the search function. 
+
+Private Sale (classifieds)
+This is one of the more obvious uses of the platform. People can now advertise used items they have for sale at no cost, naming the item as their advert title, adding pictures to show condition, video to prove it works as advertised, and location tagging to provide directions to wherever the buyer should collect it from (assuming no postal option is being made available by the task creator). To prevent app users from being bombarded with every notification of a new item for sale, instead they must either perform a search to generate a list of adverts, or update their profile to indicate that they wish to see items for sale that meet specific user defined criteria (a combination of name, classification, price, location). In this way the app acts both as a platform for viewing multiple random items for sale, or as an alert system for an item not currently for sale that subsequently becomes available.
+
+An example of use could be:
+
+User A has an interest in motor cars. They perform a search to indicate that they wish to see all tasks in the ‘cars for sale’ category within a 100 mile radius of their current location. Their ‘user feed’ (task list) populates accordingly
+User A decides that their budget is restricted to £5,000 and they amend their search criteria accordingly. The app filters out any car with a sale price above £5,000, but still within a 100 mile radius. Their feed repopulates accordingly.
+User A decides that the model they wish to buy is a 1965 MG Spitfire, but having searched through their feed they cannot find the item for sale. They expand their search radius to within 500 miles of their current location.
+User A can’t find a 1965 MG Spitfire for sale despite widening the search radius. They update their profile to indicate that they want to buy this item should it become available within a 500 mile radius at any time in the future. The item becomes available 2 weeks later and User A is notified. They buy the car.
+Having driven the MG Spitfire for a few months, User A gets bored of it and decides to list the item for sale. User B sees the advert and indicates their interest. User A receives notification, they make a deal, and the car is then sold.
+User A now needs another car, and having performed a fresh search they see nothing of interest. They update their user profile to indicate that they wish to see all new listings within a 100 mile radius. User A is notified each time a new advert for a car is listed from the point at which their profile was amended.
+The example above is for a specific item, but of course users can perform a more general search and generate a list of every item for sale within a 50 mile radius (an hour’s drive) for example, then (via the app) contact the seller for any item they have an interest in and arrange a viewing, or buy it outright and have the item delivered if the seller agrees. Sellers have the option to take payment in cryptocurrency should they wish to, but we impose no requirement to do so. We do however offer a digital receipt for the sale of items that we feel would be particularly useful to buyers of items. For a small one time fee users can document the sale via a smart contract, creating a record on the distributed ledger that shows how the item was described in the original advert, the price it was sold for, what (if any) terms of sale were agreed, and detailing the parties involved. This provides the buyer with some assurance that recourse can be taken against the seller should the item they receive/take home not work as described. At this early stage we will be offering only private sales of items via the platform, but we will be looking to expand the service to retailers in the near future.
+
+Event Promotion / Temporary Employment
+Event promotion for local charities was the original reason for developing the software, but of course the app can be used to promote any kind of event. The same system described above for the buying or selling of items can be used very effectively by all sectors of society to publicise whatever event they are putting on.
+
+An event promoter can:
+
+categorise then describe the event being promoted in detail
+add images/pictures/posters/video
+add sub tasks within the main task
+send the advert to an existing contact list and/or open it up to the network
+add a location tag to direct people to it
+take payment in cryptocurrency for event admission
+make payment in cryptocurrency to those who help organise/run the event
+A user looking for something to do can:
+
+search for events happening now in their local area
+search for events in places they are going to be in the future
+automatically receive adverts for events they are interested in
+get clear directions to any event they decide to attend
+pay for an event ticket in cryptocurrency (where applicable)
+earn cryptocurrency for helping at an event (where applicable)
+Every task listed on the app gets equal billing in terms of its space within the user feed (task list) so all have equal opportunity to attract attendees, and should an event promoter wish to sell tickets to an event they have the opportunity to do so. For events of all sizes and for all types (concerts, plays, rallies, fetes, fundraisers, sports events etc.) the app facilitates cost free promotion to the general public, can target an existing audience, directs people to the location, and collects payment (optional) all in one. Here are 3 simple examples of how the app may be used to organise an event: Example 1 – free personal use (no payment made)
+
+User A wishes to organise a 5-a-side football match, and creates a task on the app categorised ‘football match’, adds the time and date at which it is to be played, the number of players needed, and the location
+They broadcast the event to a pre-defined group of regular football players, with the aim of giving the first 10 to respond a spot on the team
+Should more than 10 respond the event organiser can choose who gets to play
+Should less than 10 respond they can open the task to the public and broadcast it to all upp users within a 50 mile radius (organiser picks the broadcast radius)
+Users who have indicated in their profile that they have an interest in playing a football match automatically receive the task into their custom feed; and users who search for 5-a-side football games can see tasks listed also
+The team rosters are filled and the game is played (Liverpool Legends win 3-1).
+Example 2 – charity use (payment system utilised)
+
+Charity A wishes to raise money for a local school and decides to organise a bake sale. They create 2 tasks; the first to organise the event, and the second to advertise it to the public.
+Task 1 details the event being organised, with time date and location, and contains numerous sub-tasks detailing the number and type of cakes they wish to make available for sale.
+Task 1 is broadcast to a predefined user group made up of volunteers and helpers (those with an existing connection to the charity), and this user group then responds by selecting the sub-task (cake) they intend to carry out (bake)
+Charity A makes a small amount of cryptocurrency available to each sub-task which covers the cost of raw ingredients, and as each sub-task is selected the task assignee receives a credit into their crypto wallet
+Task 2 is categorised ‘charity event’, with time date and location, an image (digital poster) showing the venue and photos from prior events in order to entice people into attending
+Task 2 is broadcast to a predefined user group made up of people who have attended previous events, and is also broadcast to the entire app user network
+The predefined user group receives the advert into their user feed and is notified accordingly; those with no prior connection who perform a search will also now see the event listed
+Charity A collects cash on the day for each baked good sold (and other activities they put on), but also has an additional method of taking payment from app users in cryptocurrency
+Example 3 – free personal use (payment system utilised)
+
+Local Band A wish to promote their next gig at a club in the city, and create a task on the app with the category ‘gig’ with the location time and date detailed
+They create a digital poster (image file) with the name and photos of the band, and take footage from their last gig and create a short video, both of which are uploaded and included in the task
+They wish to sell tickets at $10 each, and the club owner has advised that to meet fire code the maximum number of people who can attend is 200
+They create 200 sub-tasks within the main task which then act as digital tickets, and they broadcast this to a predefined user group made up of fans who have previously signed up to their fan page / mailing list, and they also broadcast the event to all app users on the network
+Their fans now receive notification of the event into their user feed; but any user who is not on this list but has updated their profile to indicate they are interested in the band is also notified; and any user who searches for ‘gigs’ in the city can view the advert too
+Users have the option to purchase tickets directly through the app (in cryptocurrency) by selecting one of the 200 sub-tasks and completing a security check to indicate they wish to have their in-app crypto wallet debited
+If all 200 tickets are sold prior to the event the task is closed and removed from the network and any user feed within which it is listed
+If the band fail to sell their allocation within a few days of the event, they now have some feedback as to the effectiveness of their marketing activities and time to organise further promotion
+In all 3 examples above the event promoters have not been charged any fee for advertising the tasks they create; they have been able to add detailed descriptions (including various types of media) to help market their event; they have the ability to target their audience (where they have an existing list of interested parties), but have also been able to advertise to the general public; they have provided clear directions to the event location; and (where applicable) they have been able to make or take payment in compensation for services received or rendered respectively.  People
+
+For businesses we feel there are real benefits to this system, especially those that demand a certain level of staffing agility. In their most recent update, Staffing Industry Analysts confirmed that the global employment industry generated $461 billion in 2017, with an estimated 89% of this revenue generated via temporary employment. They forecast 7% growth in 2018 and 6% in 2019 (on a constant currency basis), with 7 of the 17 largest employment markets projected to grow by double digits and none forecast to decline.
+
+Much of this revenue is generated via employment agencies sourcing staff for businesses, and we aim to serve that same market by delivering live local staffing solutions. For managers we help to fill job vacancies at short notice, which saves time and helps businesses to run efficiently; for workers we locate temporary employment opportunities, facilitate the connection and offer the option to create a permanent and immutable record of the entire process.
+
+The app provides a ratings system for both workers and job creators, helping to promote a workplace meritocracy since it shows who are the fairest employers, as well as which workers are quickest, punctual or high-scoring in terms of skill set.
+
+An example of how a service industry business might use the app is as follows:
+
+Manager A runs a successful fast food restaurant business with multiple outlets within the same city. They download the app (free) and have their staff do the same, then they set up a user group with each staff member added to the list.
+One night 3 members of staff call in sick and Manager A now has to find cover for them. They create one message and broadcast this to their entire staff network, detailing the 3 shifts (with location) now available to whoever is free.
+Manager A receives responses from his staff network and manages to re-allocate 2 of the 3 available shifts, but there remains 1 shift left to cover.
+Manager A creates a second task under the category ‘service industry work’, detailing the hours and type of work on offer and the location of the restaurant, then broadcasts this short term job opportunity to all app users within a 25 mile radius of the restaurant.
+Manager A receives 3 responses from people willing to work but not currently employed by the restaurant. Based upon the skill set listed in their user profile and their overall rating on the app, they select the best candidate and offer them the shift.
+In the example above Manager A was able to save time in the process of re-allocating the shifts to his existing staff since there was no requirement to call each member individually. Had there been more than 3 responses Manager A would have been able to choose from them, allocating the shifts to the best available staff member rather than taking the first option available for the sake of expediency. Manager A gains a deeper understanding of which staff members are the most committed to doing a good job, since even a response in the negative shows a conscientious ‘can do’ attitude. However, in our example Manager A found that only 2 of the 3 available shifts were covered by the existing staff network, and the shift was then advertised to the general public. Manager A now has a cost free and ultra quick way to source and then trial new faces rather than utilising a third party agency, who may not be able to find a worker at such short notice but if they can would certainly charge a fee. Additionally, should the applicant agree, payment can be made to them immediately (in cryptocurrency) without having to involve a bank and/or payroll company. Even where no payment is processed, for a small one time fee the activity can be formally documented via a smart contract and a record added to the blockchain ledger. To create a blockchain record both parties must have completed and satisfied KYC/AML documentary requirements, meaning there is assurance as to the identity of each should some dispute arise between them. In under-developed economies especially, where employment regulation tends to be less well defined and enforced, the app will help to provide a framework for the official documentation of labour activity. In more advanced economies it supplements existing methods of documenting labour activity. In addition to helping businesses source temporary workers, we are also helping to fill the gap in terms of under employment. We class the under employed as anyone looking to either increase the number of hours worked at their regular job, or wishing to find additional work in their spare time. In Europe particularly where we currently find high rates of unemployment among 18-24 year olds there is a real need and demand for additional sources of paid work, and while one-off job opportunities may not be an ideal solution longer term, they will at least help to meet that demand and the experience gained may lead to a full time job in the future. We expect that businesses will provide the bulk of these opportunities, but as any canyu.do app user can create a paid task for any other app user to complete, the number of short term work opportunities available to the market is no longer wholly dependent on businesses creating them. On this basis we believe use of the app will help to spread wealth and promote the ‘sharing economy’. Rather than relying on businesses creating paid tasks for people to complete, the app also provides people with a fast and easy method of contacting businesses to request their services. This creates efficiencies for all types of businesses as the app serves as an all in one tool for lead generation, serves as a diary and workflow planner, and guides them to their target market. Here are 2 simple examples of people creating jobs for other app users to complete: Example 1 – people to business (the new yellow pages; digital proof and payment system utilised)
+
+User A has a problem with their household lighting system, which flickers constantly despite the bulbs being newly installed, and wishes to engage the services of a qualified electrician
+Rather than looking up contact details for a number of local firms and calling each individually, they instead they create a task describing the job, categorise it ‘qualified electrical’ and add pictures/video of the problem and their location
+They assign the task to every app user within 100 miles of their current location, and the task then appears in every qualified electrical firm’s user feed
+They are contacted by 4 firms immediately, each wishing to arrange a viewing and giving a rough estimate of cost
+The ratings system provides some assurety as to the standard of work provided by each firm, and User A selects 3 of the 4 firms and arranges a time for each to view the job; each firm has directions and the task remains active in their feed
+All 3 firms quote for the job and User A selects one firm to carry it out, opting to create a digital record of the quotation via the app (smart contract execution)
+The work is carried out successfully, and User A makes payment to the electrician in cryptocurrency*
+*Had the electrician declined to accept payment in cryptocurrency, User A would still have the option to generate a digital receipt for the work carried out. Website reskinExample 2 – people to people (odd job request; payment system utilised)  
+
+User A recently had an accident and broke their leg, and will be out of action for a number of weeks meaning they are unable to complete household chores
+Friends and family help where they can, but User A’s garden is starting to look overgrown and their dog (Fido) is desperately in need of a good walk
+They create 2 tasks and broadcast these to all app users within a 50 mile radius
+Task 1 is a request to weed their flower beds and mow the lawn, and they add pictures of their garden to show size, a location tag, categorise the task as ‘garden maintenance’ and offer payment in cryptocurrency
+Task 2 is a request for someone to walk Fido, and this time they upload a short video (taken on their phone) to show the breed of dog, and that he is good natured and well behaved; they add a location tag, categorise the task as ‘dog walking’ and offer payment in cryptocurrency for the service
+Any app user (businesses or people) who has listed an interest in ‘dog walking’ and/or ‘garden maintenance’ in their profile, and is currently located within 50 miles of User A, will automatically receive the task into their user feed
+Any app user who searches for ‘dog walking’ or ‘garden maintenance’ jobs, and is located within 50 miles of User A, can view the job advert
+Since the task is automatically categorised by canyu.do as an ‘odd job’ it appears in a generic list of adverts and can be viewed by all app users who perform a search. In practice the searcher can specify their own search radius – i.e. search for all odd job opportunities within 50 miles of their own location – meaning this list is filtered for them and won’t contain all jobs globally
+User A receives a number of responses to his advert, a mixture of businesses and local people, and can use both their user profiles and app ratings to make a decision as to who to assign the task to
+User A opts for a local person in both cases (a student looking to earn extra money on the weekend) and assigns the tasks accordingly
+Both tasks are completed and User A makes payment in cryptocurrency. A record is added to the distributed ledger. Fido is happy
+In the example above, since a payment is made a record is added to the distributed ledger. This means that the activity is documented and can be used by User A as proof of payment (a digital receipt), and by the task assignee as semi-formal proof of work experience / work ethic. Lock
+
+Data Secure Digital Proof of an Agreement or Transaction
+In addition to the clear work efficiencies generated, there are multiple other benefits to a system such as this in terms of community relations, learning new skills, and building your reputation with good work or good deeds; but perhaps the biggest benefit comes from utilising the blockchain to evidence all of these things, as for those with skills but no formal training/qualifications it is a way to show employers that you have some experience, and/or are capable, trustworthy and motivated. Blockchain networks process an exchange of data or value in linear sequence, using cryptography to secure transactions in place of traditional ‘by eye’ methods. This safeguards the transfer of value between entities, and in turn validates the permanent transaction record it generates. Transaction records are held on a ledger which is distributed across the network, so personal or financial details are never stored in one location. For app users this means they have reduced risk of fraud due to data loss, and should they ever need to evidence a payment made, a contract agreed upon, or a service provided, they can supply an unimpeachable copy from an immutable source. Examples of where this may be beneficial to app users are as follows:
+
+Proof of Agreement – users can formally document an agreement to provide a service at a point in the future, especially where there is a cost to the provider before they can undertake the task (travel, materials, preparation); and the service receiver can use it as proof where a provider has given an estimate as to the cost of the work being undertaken (provider cannot dramatically increase their fee).
+Proof of Payment – users can prove that they have paid a third party for a service received or item purchased.
+Proof of Data Transfer – users can transmit data to a third party and confirm that the third party has received it (useful for formal/legal documents).
+Digital Receipt – in case of dispute, users can create a record for an item they have purchased even where no payment was processed via the app (this would include the original sale advert and parties involved).
+Proof of Work Experience – users that complete temporary employment or odd job tasks listed can provide proof of their work, which may be useful where they have no formal qualifications but wish to show experience, or can use it to show their capability and motivation to work.
+Proof of Good Deeds – users that complete tasks for charity can generate proof of their good deeds and use it to evidence their good character or standing within their community.
+For a small one time fee users can generate this digital proof via smart contract execution, thereby creating a record on our blockchain distributed ledger they can call upon in the future should they ever have to provide it. Both app users have to indicate readiness to proceed before the record can be created, and for non charitable tasks only the parties to the transaction can view the data. Transaction
+
+Global Payments Service
+The canyu.do app can be used to transfer cryptocurrency (C¥D). App users simply create a task and assign it to the person they wish to pay. Once both users have confirmed they wish to proceed (via a wallet passphrase security check similar to how internet banking works currently), the payment is sent directly from User A to User B.
+
+Much talk has been made of using a blockchain based service to process global remittances (as blockchain value transfer methodology is ultra fast, ultra secure, and low cost to the user), but there is currently no single company facilitating this service. We believe that mass adoption of a single payments provider will be better achieved where a combination of other services are available to users, and the Canyu.do app is therefore ideally positioned to capitalise on this gap in the market.
+
+For those new to the terminology, remittances are the relatively small amounts of money regularly transferred by foreign workers to their families back home. The economic benefits of this activity are understood to be vast, with the income helping to boost GDP and spur economic growth in their home countries. In 2014 the total amount transferred to emerging economies was $436 billion, rising to $582 billion in 2015, and it is estimated that growth is continuing at fast rate.
+
+The cost of sending money internationally has decreased over the last 10 years, but remittance amounts tend to be relatively small, and transaction costs levied upon them using traditional transfer methods can make up a large percentage of the total being sent. The UN is currently working on a longer term plan to reduce these costs under the ‘2030 Agenda for Sustainable Development’ project, and demand for low cost fast and secure transfer methods is expected to grow substantially over the next few years.
+
+At the same time social media use is growing in these emerging economies, with internet and smartphone adoption rising rapidly among their population:
+
+Growing
+
+Canyu.do aims to service this growing global remittance market, offering payment facilities to developed economies where smartphone and internet use is already ubiquitous, and to the rapidly expanding number of smartphone and internet users in emerging markets.
+
+Charitable Contributions
+The app contributes a service to charities by allowing them to advertise their events for free and notify potential attendees quickly and easily. It also allows those with no prior connection to a charity to locate events and receive directions should they wish to attend. However, perhaps the greatest benefit comes from the fact that we pledge a third of our revenues to charitable causes, and will create a pool of money they can use to do good works within society.
+
+Each time the app is used to send a payment or document a process via the execution of a smart contract, a fee is charged and a charitable contribution is made. App users will be given the option to select the charity they wish this money to be paid to (by asking them to choose a charity each time they execute a smart contract, and/or by facilitating a default choice via their user profile) and Canyu.do will credit them accordingly.
+
+Hands All credits will be made to a charity’s crypto wallet at the end of each month, and will be paid in a special coin that allows us to track its trajectory. This means we will be able to provide users with details of how their charitable donation was utilised, and this information will form the basis of our pay it forward model. Charities can use the money for any purpose they see fit, but of course we hope they will use the app to promote their activities and use the pool of money we provide as a reward system for those that get involved with them. The more the app is used by people or businesses, the more will be contributed to charity – in effect it is a charitable pay it forward model powered by the invisible hand of Adam Smith – and we will talk about the pay it forward model (and the special coin we will use to power it) in more detail later on in this paper.
+
+Possible Uses of the Technology / Summary of Examples
+We have summarised some of the benefits/practical applications for user groups below, but the list is not exhaustive – we feel that there is real technological ubiquity here, and the app can be used in a huge variety of ways.
+
+Personal Use
+The New Yellow Pages – users no longer have to contact trades individually to arrange quotes for work they wish to have done. Instead they can create a task and notify every tradesman within a user defined radius for free. The task creator can assess task responders via the ratings system.
+The New ‘Classifieds’ – users can advertise items they have for sale at no cost, including images/videos and directions to buyers; buyers of items now have a new and efficient way to search out then pay for items, and an alert system for items they may wish to buy that are not currently for sale.
+Event Organisation – users can organise any type of event for free (parties, sporting events, BBQs), sub-tasking the event so that attendees can each contribute, and location tagging provides all attendees with directions.
+Time Saving – users can delegate non-essential tasks leaving them free to concentrate on the items that matter to them most.
+Wealth Generation – users now have an extra tool in their armoury that allows them to earn cryptocurrency in their spare time by completing tasks for others.
+Charitable Donations – users now contribute to charity every time they make a payment using the app (see the revenue model and PiF sections).
+Community Relations – users get to meet people in and around their location, helping to develop good relations and trust amongst themselves.
+Evidence of Good Work – users now have the facility to create an immutable record of tasks they have completed, and can therefore use it as semi-formal evidence in terms of skills where no formal qualification exists, or as a character reference in terms of their charitable deeds.
+Business Use
+Payments System –  the app allows businesses to take electronic payment for their services in a more mobile fashion; they no longer have to carry portable card readers or insist clients pay via websites; they no longer have to wait for bank transfers to be processed, and they no longer have to carry cash. The reporting function allows them to generate and store receipts in digital form (no more paper).
+Staffing Agility – businesses can have their staff download the app then set them up as one user group. They now have the ability to contact every member of staff instantly at any time meaning they can organise non work events or advertise shifts to be covered at short notice. Should there be no staff available they can open the task up to the general public using the opportunity to trial new faces then pay them via the app, and generate a record of the activity.
+Workflow 2.0 – planners now have the ability to breakdown complex tasks into smaller pieces and allocate them to individual staff. They can add media to help describe what needs to be done and location tags to guide staff to where they need to be. Once the task is complete they get an alert in real-time helping them to maximise efficiency by making the most of their staff member’s time.
+Organisation – tradesmen no longer miss work opportunities if they can’t answer their phone, as each job posted within their vicinity that meets criteria in their user profile automatically appears in their user feed. This also serves as a diary since each job they have agreed to undertake is listed also, and by adding location tags they can utilise satellite navigation to make travelling between jobs easy and efficient.
+Charitable Use
+Promotion – charities now have an additional free outlet to publicise their good work, and a new pool of app users to encourage to do good deeds for them. Users can access a list of local charitable endeavours in one place.
+Incentives – charities have a way of rewarding those who do the most, either via public recognition or by payment in Kudos (see ‘pay-it-forward’).
+FX efficiencies – by transacting in C¥D/Kudos, charities avoid FX risk until such time as they need to convert to a domestic currency; they also remove much of the cost and time wastage associated with transferring money internationally, since they can transfer value between app users instantly and regardless of geographical location.
+Pay it Forward Model – by tracking Kudos in real-time we can evidence how it is used in charitable tasks over its lifespan, emphasising how much good a user donation has resulted in, and therefore promoting and encouraging new charitable endeavours as part of our ‘pay-it-forward’
+App Technical Overview
+In addition to the many benefits in terms of organisation and instant notification of tasks/jobs/events/items available within the marketplace, all of which can be accessed for free, at its core the app is essentially a user controlled smart contract creation mechanism. Entities that wish to process a transfer of value (data, cryptocurrency) or generate proof of an agreement (receipts, quotations, project terms) can create a smart contract and assign it to another party. Once both parties indicate readiness to proceed via a security check, the contract is executed and a permanent record added to the distributed ledger. The benefits of this system far outweigh its initial intended purpose as a payments processor, since a record on the blockchain ledger gives absolute assurance that a transaction has taken place. It can therefore be used to evidence that a document has been sent and received, or ownership transferred, or a service contract agreed upon, even where no actual transfer of monetary value has taken place. Task creation
+
+Task Creation
+To begin users download the app to their smartphone/tablet/pc (free) and can then begin to create tasks for others. Adding pictures/posters/video (to describe the activity) is easy, and documents or data files can be attached also. Location tagging helps to indicate where the activity is to take place, and contact details can be included in a free form text section should there be a need for discussion. A payment amount in cryptocurrency can be included too.
+
+Custom User Feed
+Once a task has been created, it can be assigned as follows (can be a combination of):  
+
+to specific app users (based on email address or name);
+or a group of app users based on skill set (e.g. plumbers or carpenters);
+or a pre-defined group of app users (e.g. a staff network or mailing list);
+or to any app user within a user defined geographical radius;
+or to all app users on the network (no specific assignee; items found via search).
+Custom User Feed Tasks that meet criteria defined by the user in their profile, or tasks that are specifically assigned to an individual user, automatically appear in their custom ‘feed’ (task list). In practice this means that users who undertake tasks listed via the app can specify in advance which types of tasks they are most suited to complete and have these prioritised for them. Each time a user logs into the app their feed is updated to show the latest opportunities available based on their profile, but app users can also search for tasks using a combination of category, location and/or item name, and again the results are displayed in their feed.
+
+User Profile
+Users that wish to either offer payment in return for a task they create, or receive a transfer of value for a task they undertake, or execute a smart contract via the app, must provide standard ‘know your customer’ documentation before they can proceed. This forms the basis for their user profile, but additional information can be included in order that tasks they are qualified for or suited to, and/or specific items they wish to buy, and/or specific events they wish to be notified of, are allocated directly into their user feed without them having to perform a search. A user profile may contain the following (items marked with * are mandatory): Personal
+
+full name *
+address *
+date of birth *
+email *
+passport / social security number *
+passport / social security scanned image *
+selfie *
+default charity choice
+formal qualifications
+job title (current)
+work experience / capability (category based)
+interests (category based, can be a combination of events or a wishlist of items)
+Business
+
+full name *
+head office address *
+company registration number *
+contact email *
+contact tel *
+company logo *
+industry *
+work undertaken (category based)
+default charity choice
+User Data Control
+Each user has access to their own transaction summary screen, which they can use to see total payments sent or received, items bought or sold (digital receipts) and/or tasks created or completed. Any task that processes a payment in cryptocurrency automatically results in a record being added to the distributed ledger. At the point where tasks are marked as complete, the record is generated and displayed via this reporting function within the app. Users can opt to receive these ‘digital transaction receipts’ by email if they wish to, or just keep an offline record within the app, to be accessed only via successful completion of their security passphrase check. This places sole control of data recorded by the app explicitly into the hands of the user, making it easy for them to provide proof of an activity or transfer of value if they wish to do so, but at the same protecting them from data hackers.
+
+User Ratings System
+Since task creators who open the job up to random users (e.g. every plumber within 100 miles) may receive more than one application from prospective task doers, a ratings system is provided to give them some surety as to the character and suitability of the applicant.
+
+As tasks are completed, both parties to it will be asked to rate the other via a simple ‘how many stars out of 5’ system, but the overall rating includes other information recorded by the app. This aspect is governed using AI technology making it fair for all, and takes into consideration aspects such as user response time, user reliability and user skill set, as well as their overall rating from prior tasks they have completed.
+
+Data Wastage
+Once a task has been specifically assigned or has been marked as completed (agreement entered into for value processing at a later time, or agreement reached and smart contract executed), the task is removed from all other user feeds via a proprietary software design notification’ technology for which we have patent pending in the United States and various other international jurisdictions.
+
+This helps to keep task lists current for all app users and also significantly reduces the data load on the network.
+
+Non Fee Generating App Use
+There are no documentary requirements for casual users. Login can be achieved via text message validation, email validation, Facebook credentials, or Googlemail user details.
+
+KYC/AML documentary requirements are only demanded where the user wishes to transact in cryptocurrency via the app, or execute a smart contract. For tasks where there is no transfer of value between app users, or no requirement to add an entry to the blockchain ledger, we impose zero restriction in terms of app function.
+
+Utilising Smart Contracts
+A smart contract processes a transfer of digital assets between entities where conditions agreed upon by both parties have been fulfilled. Smart contracts generated through use of the Canyu.do app are run on the Ethereum (ERC20) platform.
+
+Smart contracts can be created for execution on a future date, and/or can utilise multi signature security requirements. All smart contracts are executed in the base currency of the app (C¥D).
+
+The contract proposer creates a task and assigns it to the contract fulfiller, who then reviews terms and if in agreement accepts them via their security passphrase associated with their integrated wallet. A smart contract is then created between the two parties and both receive notification that terms have been agreed.
+
+Once the task is complete and both parties confirm assent (again via the security passphrase associated with the wallets), the contract is executed and the transfer of value processed between them.
+
+The Canyu.do Integrated Wallet
+Once registration is complete the app user is provided with a digital wallet for transacting in cryptocurrency. The wallet functions in line with all other standard cryptocurrency wallets, and users can transfer currency in and out at their discretion.
+
+To execute a smart contract that has a payment value as part of its terms, users must have funds available within their wallet. For contracts that have a future date of execution, payers will have their balance deducted at the time of contract creation, to be held in escrow pending release to the beneficiary on the specified date, or at such time as both parties agree the task is complete.
+
+Since funds can only be released when both parties confirm readiness via their security passphrase check, disputes can be handled only by app users and resolution is dependent on mutual consent rather than arbitration by our company.  
+
+Blockchain / Cryptocurrency In 2018
+Coins are given the label ‘cryptocurrency’ because they are the unit of account used to pay miners for processing transactions that create a record on the distributed ledger, but in terms of their real world utility they don’t yet function fully as a medium of exchange. Instead, for the average holder of cryptocurrency they are more of a speculative asset class with a value based primarily on the perceived future cost and popularity of mining. Any company that is involved in the transfer of value on behalf of their customer base would benefit from employing a blockchain process, and so the (very credible) assumption is that there will be a growing number of blockchain transactions processed in the future as part of a service, and therefore rising demand for the currency used to compensate miners. Public interest in (and public adoption of) cryptocurrency is now widespread, and this has lead to an overall market cap in excess of $300 billion at the time this paper was written. In our opinion this value exists primarily as a quasi-commodity, with gains made where coins appreciate due to speculation rather than a rising demand in terms of their practical application, but in the future we believe it will become easier for holders of cryptocurrency to utilise/spend it in their local economies or online. The Canyu.do app aims to be part of this transition process, giving existing holders of cryptocurrency a way to utilise this wealth to have a task performed for them, and for those with no crypto holdings it is a way to earn cryptocurrency for their time and efforts. We also believe that our app will aid retail adoption in terms of providing an easy way for them to accept payment in cryptocurrency for products or services. We see the Canyu.do app as bridging the gap between cryptocurrency as a wholly speculative asset class, and cryptocurrency being used to secure products and services in the global marketplace. We also expect that other companies will spot this market opportunity and develop new and interesting applications of their own, and we are therefore confident that the blockchain /crypto market will continue to grow in the future, and there is a place for our company within it.
+
+Canyu.do Revenue Model
+The Canyu.do app is free to use for all except where a smart contract is executed and an entry applied to the blockchain distributed ledger. All smart contracts with payment attached are executed in, and all fees are charged, in canyudocoin (C¥D). 
+
+Payment Fees
+All tasks that process a transfer of C¥D attracts a 1.5% transaction fee levied on the remitter (minimum $2; maximum $100).
+
+Smart Contract Execution Fees
+All tasks that require an entry to be applied to the blockchain ledger, but process no payment between users, attract a one-time fee in C¥D to $2 that can be split equally between contract parties, or debited from one party only (users to decide). To encourage adoption of this concept we will make this feature free for the first year.
+
+Revenue Distribution Pledge
+Canyu.do pledges a third of all revenues to charitable causes. This revenue is provided to registered charities who make use of the app via a credit into their crypto wallets. There is no restriction on how these funds are utilised, but we hope it will be used as a reward for app users that donate their time or resources to completing listed tasks on behalf of these charities. The remainder from revenue generated will be used to fund blockchain mining costs, maintain app infrastructure, continue to develop the product offering, and market the app in various jurisdictions globally.
+
+The Canyu.do Economy
+At its core the app asks ‘what can you do’ to make contribution within your community and local economy. It connects those with too little work and time to spare to those with a heavy workload and not enough time to complete it all. It connects people to businesses (in both potential employment opportunities, and/or making use of a business service); it connects people to charities, and attempts to fund charitable enterprise; and it connects people to people in an efficient and cost free manner. In all examples of practical application app users make a positive contribution to the world around them since they will each have helped the other in their daily lives (the sharing economy), and of course any payment made, activity documented, receipt generated (smart contract executed) via the app results in a charitable contribution. The app therefore promotes and facilitates wealth sharing and at the same time has a clear social conscience, and we hope it acts as a catalyst for better community relations and sets a benchmark for other companies to follow in terms of a socially responsible business model. Canyudo Economy
+
+A 2-Tier Coin System
+We have designed a 2 tier coin system for the simple reason that we want to track one of the coins over its life cycle, but it may be helpful to the reader if they treat both coins as essentially the same token. In essence they are the same thing (one being a derivative of the other), with the only real difference of note coming in how blockchain transaction records are stored and the data made available – the first (C¥D) is used in the operation of a data protected blockchain distributed ledger with data available to be accessed only by the parties to the transaction; the second (K¥D) has transaction records committed to a public blockchain ledger, with this data then accessible by anybody. The first coin (C¥D) is the main currency of the app and will be used in non-charitable smart contract execution (payments, digital receipts, fees); the second coin (K¥D) will be credited to charities by Canyu.do (generated from our revenue pledge or by donations from app users), and tracked in order that we can show just how much social good a charitable donation has resulted in as and when charities utilise this value.
+
+Canyudocoin; C¥D; (‘Cs’ / ‘Seed’):
+This is the token or utility coin with which smart contracts are executed via the app. When a task is completed and user A wishes to pay user B (jobs, items sold, remittances), C¥D will be the currency used to process payment. For those wishing to execute a smart contract where no payment is processed (digital receipts, proof of agreement), C¥D will be the currency in which our fee is charged. C¥D operates in line with all other cryptocurrencies currently available to be purchased in the marketplace. It can be traded as an asset class at all of the normal crypto exchanges and can be held in wallets outside of our app. It exists as both an asset class and store of value for those wishing to purchase it as an investment, and as a currency that people can use to instruct real world activities or otherwise transact via the app. As with other cryptocurrencies its speculative value is linked to the perceived number of blockchain transactions to be processed via the app in the future. Given the growth we expect to see in companies adopting blockchain processes and therefore growth in future demand for cryptocurrency, we believe its value (along with other coins that also have real world utility) will appreciate over time. In addition, the value of C¥D can be defined as equal to the cost of labour productivity, being the amount a job creator can reasonably offer in payment for a service that would be accepted by the marketplace, and in this respect C¥D attempts to bridge the divide between cryptocurrency as an asset class and cryptocurrency as a medium of exchange.
+
+Kudoscoin; K¥D; (‘Ks’ / ‘Kudos’):
+To create Kudoscoin (K¥D) we employ a process of ‘burning’ Canyudocoin (C¥D). What this does is destroy C¥D (removing it from circulation) and replace it with K¥D. We do this to transfer value from one coin to the other, and since C¥D has a definitive value at the time it is destroyed this value is then passed on to Kudoscoin. Kudoscoin cannot be bought or sold via regular crypto exchanges, and cannot be held in wallets outside of our app. It can only be created by Canyu.do and can only be used within our app ecosystem. When we credit a registered charity app user (our revenue pledge) it will be paid to them in K¥D via a transfer into their in-app crypto wallet. Its purpose is as an incentivisation tool charities can use to motivate those who would perhaps not normally involve themselves in charitable endeavours, to be paid by charities to app users who assist them with the tasks they create on the app. The creation of this coin allows us to track its trajectory over the course of its life cycle, with the data generated being used as promotion within our pay-it-forward model. With the value of K¥D based upon the value of C¥D at the time of the ‘burn’, in order that this value be maintained over time we will use a ‘peg’ (a fixed exchange rate of 1:1) between the 2 coins, allowing Kudoscoin to fluctuate in value in line with C¥D. This means that if the spending power of C¥D (in comparison to fiat or other crypto currencies) rises over time, the spending power of K¥D will rise at the same rate, making it potentially attractive to accumulate by the charities we credit it to or the app users they credit (assuming C¥D itself manages to appreciate in value over time). Should the app user or the charity wish to utilise this value outside of the app ecosystem, they will first have to convert their K¥D holdings back to C¥D via the same burn process which we will facilitate at no cost to the user. Since C¥D can be bought and sold at the crypto exchanges, holders of K¥D (charities or app users) then have the option to exchange it for fiat currency or other cryptocurrencies in the future.
+
+The Pay It Forward Model
+Pay It Forward Model Charity primarily consists of people performing selfless acts for the benefit of others with very little fanfare, but that is perhaps at odds with our Pavlovian human nature. Most of us don’t like to talk about our good deeds, but to encourage this behaviour in others we should probably do it more, and we think being able to demonstrate how many lives a donation has impacted positively would be a powerful motivator. We have no way of tracking cash in real time and therefore no way to evidence how a charitable donation is utilised (prove how much good work was achieved), but with the advent of cryptocurrency this facility now exists and we intend to do just that with the Kudoscoin (K¥D) we provide to charities. We hope that charities use the app to organise events and the income we provide to incentivize participation, but we impose no restriction upon them to do so. Kudoscoin is therefore a reward charities can use to generate alpha via the app, or it can be used in their normal activities by converting back to C¥D and utilising the money elsewhere. As Kudoscoin can only be used as payment for a charity sponsored activity, or be converted back to C¥D via the same burn process (when that happens Kudos is effectively meeting with ‘the knave’ in Ben Franklin’s story), until that point we will be able to track how it is utilised and can then use that data as promotion. When an app user receives Kudoscoin they will be given information about it, for example:
+
+Creation date (how long it has been in operation)
+Value at creation (expressed in the home currency of the user)
+Value at the present time (expressed in the home currency of the user)
+A list of the activities it has sponsored throughout its life cycle
+A list of the charities who have used it in the course of their activities
+The coin then becomes something of a ‘hot token’ with the oldest coins typically having done the most good within society, and we hope that by providing this data it will encourage people not to spend their reward but instead donate it back to a charity of their choice, to be used once again in charitable enterprise. An example of how the system will operate is:
+
+Within the month of July 2019 Canyu.do app users transfer $50 million dollars via remittances, payments for items purchased and/or tasks undertaken
+An additional 10,000 smart contracts are executed as digital receipts and/or proof of agreement, giving Canyu.do a total revenue of $300,000 (in C¥D)
+$100,000 (in C¥D) is converted to K¥D via the burn process and allocated to app registered charities via a credit into their crypto wallets
+The charities create events/tasks via the app over the next year, using half of the K¥D credited as a reward to incentivize participation in these events, with the remaining amount converted back to C¥D and utilised elsewhere
+App users who assist/participate in charity sponsored events receive a reward in K¥D via a credit into their crypto wallets, and are given information about the coins they receive
+The app user converts half of the K¥D credited back to C¥D and spends it, with the remaining value donated back to a charity of their choosing
+The K¥D coin lives on in the system and is utilised in another charitable activity
+The example above is fairly basic, but until we see the app used in real time we won’t be able to show specific use cases. We intend to kickstart this pool of charity money by allocating a portion of the proceeds from our token sale, and an additional portion of the coin we keep back to help develop the app ecosystem over the first 5 years of operation. We are actively seeking to develop relationships with charities now, and will make further announcements as and when these materialise.
+
+Compliance
+Given the belief that one day cryptocurrency/blockchain technologies may be used either to replace or at least augment current monetary policy, we concluded that compliance should be at the heart of Canyu.do’s token offering.   We believe in issuing a stable, fully compliant token with relevant registrations and reporting in the respective countries in which transactions undertaken via the app take place.   Whilst the interpretation of the law is still unclear on whether a coin offering (especially one such as this which has real ‘utility’) is classified as a security in the US for example, we believe compliance with local and national regulators from the outset will enable us to stay ahead of any future regulation coming into force in and around the cryptocurrency sector.   The compliance procedure for purchases of our coin will be twofold:
+
+Prior to the purchase of any amount of tokens, we will take the customer through identity confirmation processes which are laid out in the graphic below. This will ensure we know the customer is who they say they are:Amount of tokens
+As well as ascertaining the above location specific information from a prospective purchaser, we will perform checks against a number of databases, including, but not limited to:
+Know Your Client (KYC)
+Document Security Feature Verification
+MRZ matching for passports
+entity Verification
+Facial Recognition
+SSN Compare (subject to country)
+Credit Bureau Confirmation (subject to country)
+Death Check
+Anti-Money Laundering (AML)
+Anti-Terrorist Financing (ATF)
+Counter-Terrorist Financing (CTF)
+Country Watch List
+Global Sanctions List
+Children’s Online Privacy Protection Act (COPPA)
+Patriot Act
+Office of Foreign Assets Control (OFAC) Scan
+Politically Exposed Person (PEP) Scan
+Address Risk Scoring
+On-Chain AML
+On-Chain ATF
+Wallet Risk Scoring
+For our token sale (and potentially beyond) we have engaged the services of a leading compliance company already involved in the blockchain space. They have a huge amount of experience in this field and (at least initially) will guide us through the process of vetting purchasers of our coin These checks will take in the region of 15 to 20 seconds to complete, providing us with near instant confirmation that the purchaser is who they say they are and that they are not on restricted watch lists or registers. Should it be discovered that they are on any of these lists then the transaction would be instantly declined. The AML/KYC checks fit into the token purchasing process as shown below. It should be noted that all of the processes relating to AML/KYC are fully GDPR compliant. Furthermore Canyu.do is also registered with the Information Commissioner’s Office in the United Kingdom for data protection purposes.
+
+Token Sale
+Symbol:CYD
+
+Total Coin Supply:10,000,000,000
+
+Initial Coin Value:$0.10
+
+Pre-ICO:01 February – 28 February 2019
+
+Pre-ICO Bonus:100%
+
+Currencies Accepted:USD, GBP, EUR, BTC
+
+Public ICO:14 April – 14 July 2019
+
+Public ICO Bonus:60% Month 1 / 30% Month 2 / 10% Month 3
+
+Currency Accepted:ETH
+
+Soft Cap / Hard Cap:$2M / $200MThe token sale will begin on February 1st 2019 with a private sale of Canyudocoin to accredited investors. This will run for one month and the public sale will then begin on 14 April, running for a further three months into 14 July 2019. Half of the coin being created will be made available for sale, with 30% of the total coin created made available to accredited investors, and 20% to the general public; the other half will be kept in reserve by Canyu.do and used as follows:
+
+17% to develop and promote the app ecosystem (5 year distribution)
+20% to kick-start the pool of charity money (5 year distribution)
+3% to lock in the founders and key stakeholders into employment contracts running for a minimum period of 3 years.
+10% to be held as a company reserve in cold storage for a 3 year period.
+Token Sale Distribution
+At this point in time we cannot be sure exactly how much we will raise from the token sale, which is why we have included an allocation for both the charity pool and ecosystem development and promotion within the token creation section. Should we manage to sell all or the majority of the token sale allocation we may decide to change these percentage allocations, with more being distributed to registered charities. In terms of core functionality and design, the app is already built and we are about to perform extensive product testing and a comprehensive review based upon the data this generates. In the months leading up to the token sale we will continue with wallet integration and implement the security function that will safeguard user balances held within the app. Some of this cost, along with promotion for the token sale itself, will be funded by our second round Seedrs campaign which is scheduled for the month of August 2018, but an allocation from the token sale will be used to continue product development and testing and secure the additional staff we will need prior to the product launch in 2019. Of the money we raise from the sale of C¥D to accredited investors and the general public, we intend to allocate as follows:
+
+20% to product development and testing
+20% to kickstart the pool of charity money
+30% for staffing and other operational costs
+25% for promotion prior to and after the product launch
+5% to the founders and advisers who helped progress the project
+Token Sale Distribution
+
+Glossary of Terms
+Alpha – An investing term used to denote returns over and above the average; In this case it refers to the ability of charities to gain assistance from those who do not normally get involved in charitable activities
+AML – Anti Money Laundering regulations designed to prevent the proceeds from criminal activity entering the financial system / economy
+App / Application – Software made available to people for use on their smartphones, tablets and PCs
+Blockchain – Technology that allows accurate and verifiable transaction records to be stored when transferring value between parties.
+Cryptocurrency – a digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds; currency used to compensate the processors of information onto the blockchain
+Custom Feed – a list of tasks / posts generated specific to the user based upon their profile or search instructions, and displayed for them
+C¥D – Canyudocoin (Cs); the currency of the app used to process payments for app users; the currency in which Canyu.do debits fees
+Digital Proof – a record added to the distributed ledger that an app user can use to evidence either a payment made, a payment received, a contract / agreement entered into, or data being passed from one user to another
+Digital Wallet – a computerised version of a real life wallet; a storage system for digital currencies
+Distributed Ledger – a list of records added to the blockchain ledger, with information spread out across all computers within the blockchain network, making it impossible to alter amend or hack
+ECR20 – A token ‘standard’ for the Ethereum network, defining a common list of rules for all Ethereum tokens to follow
+GDP – Gross Domestic Product; the monetary value of all the finished goods and services produced within a country’s borders in a specific amount of time
+KYC – Know Your Customer; defines a set of regulations businesses must follow in order to verify the identity of their clients prior to engaging in business with them
+K¥D – Kudoscoin (Kudos; Ks); a specially designed coin by Canyu.do operating on a public blockchain ledger; trackable currency for use within our pay it forward model; a derivative of C¥D
+Location Tagging – the act of placing a marker at a specific point on a map, so that other parties can be given directions to a user defined location
+Pay it Forward – a model proposed by Benjamin Franklin whereby a debt is not returned to the lender, but rather lent out once more to a fellow in need
+Pavlovian – relating to the process of conditioning behaviour in people via a reward system; described by I P Pavlov
+Remittance – small amounts of money transferred internationally, typically by foreign workers to their families back home
+Smart Contract – A smart contract is a computer protocol intended to digitally facilitate, verify, and enforce the negotiation or performance of a contract between parties; self-executing contracts with the terms of agreement written into lines of code
+Task / Post – in this case it refers to a task created on the Canyu.do app; can be a payment processed or an advert for a job listing, an event being promoted or an item for sale
+UN – The United Nations; an international organization formed in 1945 to increase political and economic cooperation among its member countries
+User Profile – user customized personal data; a digital representation of a person’s identity; in this case refers to information about Canyu.do app users that enables them to transact in cryptocurrency via the app; and allows Canyu.do to display tasks in their custom feed that may be of interest to them
+Disclaimer
+This document is a technical white paper setting out the current and future development of the Canyu.do app ecosystem by Canyu.do Ltd. (the company). This paper is for information purposes only, and unless expressly specified the product set out in this paper is under development and is not currently in deployment. Canyu.do makes no warranty as to the successful development, implementation and/or adoption of the technology, or achievement of any other activities noted in the paper, and disclaims any warranties to the extent permitted by law. No investor or token sale participant should rely solely on the contents of this paper, or any inferences drawn from it, including any interaction with Canyu.do staff or the technologies mentioned in this paper, and we encourage all potential investors to do their own due diligence or engage a professional to perform this activity for them. Canyu.do disclaims all liability for any loss or damage of any kind (whether foreseeable or not) which may arise from any person acting on information and/or opinion relating to Canyu.do Ltd, the Canyu.do app or ecosystem described in this paper; or any information which is made available in connection with further enquiries, notwithstanding negligence, default or lack of care on the part of the company. The business model detailed in this paper may change without notice. Although we intend to keep investors fully informed, Canyu.do has no obligation to amend modify or update this paper, or to otherwise notify a reader or recipient in the event that any matter stated, projection given, or forecast made changes or subsequently becomes inaccurate. Canyu.do, its directors, employees, contractors or representatives expressly disclaim responsibility and/or liability to any person or recipient (whether by reason of negligence or otherwise) arising from any statement, opinion or information, expressed or implied, arising out of, contained in, or derived from an omission from this paper. Whilst every effort is made to ensure that the statement of facts made in this paper are accurate, all estimates, projections, forecasts, prospects, expressions of opinion or any other subjective judgment contained in this paper are derived from our own assumptions of both the blockchain industry and the demand for our product offering, and we consider them to be reasonable as of the date of white paper publication. Although we fully intend to carry out the plan laid out in this paper, it should not be assumed it will occur. There are multiple risk factors that may hamper, delay or prevent successful deployment and/or adoption of the canyu.do app, including (but not limited to) a defect in technological development, legal or regulatory change, market/sector volatility, or the unavailability of complete and accurate information. You should consult a registered financial professional before making any investment in either the company or the coin offering.
